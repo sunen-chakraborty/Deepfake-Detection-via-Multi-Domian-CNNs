@@ -52,6 +52,9 @@ Make sure you've set the paths to your dataset correctly.
 ### Train and Evaluation
 
 Train your model and save the best model with minimum validation loss. You can load this model for further evaluation or inference.
+Inside the folder **model_notebooks** there are two folders:
+1. **proposed_models** contains notebook of models related to the training and evaluation of the proposed dual-branch CNNs.
+2. **ablation_experiments** contains notebook of single-branch CNNs used for ablation experiments.
 
 ## Results Visualization
 
