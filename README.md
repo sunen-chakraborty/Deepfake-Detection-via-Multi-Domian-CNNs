@@ -26,7 +26,7 @@ To run this project, you'll need to have the following libraries installed:
 ## Dataset Preparation
 
 ### Step 1: Convert Videos into Frames
-You need to extract frames from videos using the face_extraction script and generate the features usig the preprocessing script.  
+You need to extract frames from videos using the face_extraction script and generate the features using the preprocessing script.  
 
 ### Step 2: Dataset Structure
 
