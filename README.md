@@ -64,13 +64,6 @@ The script includes a plot of training and validation accuracy, loss, and confus
 
 After training, the script generates plots for training, validation loss, and accuracy.
 
-### Citations for the datasets
-1. **VidTIMIT:** Sanderson, C., Lovell, B.C.: Multi-region probabilistic histograms for robust and scalable identity inference. In: International Conference on Biometrics, pp. 199– 208 (2009). Springer
-2. **DFTIMIT:** Korshunov, P., Marcel, S.: DeepFakes: a New Threat to Face Recognition? Assessment and Detection (2018). <https://arxiv.org/abs/1812.08685>
-3. **Celeb-DF v2:** Li, Y., Yang, X., Sun, P., Qi, H., Lyu, S.: Celeb-df: A large-scale challenging dataset for deepfake forensics. In: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 3207–3216 (2020)
-4. **FaceForesics++:** Rossler, A., Cozzolino, D., Verdoliva, L., Riess, C., Thies, J., Nießner, M.: Face- forensics++: Learning to detect manipulated facial images. In: Proceedings of the IEEE/CVF International Conference on Computer Vision, pp. 1–11 (2019)
-5. **DFDC Preview:** Dolhansky, B., Howes, R., Pflaum, B., Baram, N., Ferrer, C.C.: The DeepfakeDetection Challenge (DFDC) Preview Dataset (2019). <https://arxiv.org/abs/1910.08854>
-
 ## Repository Citation
 
 If you use this repository in your research, please cite it as follows:
@@ -85,3 +78,10 @@ BibTeX format:
   url = {[https://github.com/sunen-chakraborty/Deepfake-Detection-via-Multi-Domian-CNNs]}
 }
 ```
+
+## Dataset Citations
+1. **VidTIMIT:** Sanderson, C., Lovell, B.C.: Multi-region probabilistic histograms for robust and scalable identity inference. In: International Conference on Biometrics, pp. 199– 208 (2009). Springer
+2. **DFTIMIT:** Korshunov, P., Marcel, S.: DeepFakes: a New Threat to Face Recognition? Assessment and Detection (2018). <https://arxiv.org/abs/1812.08685>
+3. **Celeb-DF v2:** Li, Y., Yang, X., Sun, P., Qi, H., Lyu, S.: Celeb-df: A large-scale challenging dataset for deepfake forensics. In: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 3207–3216 (2020)
+4. **FaceForesics++:** Rossler, A., Cozzolino, D., Verdoliva, L., Riess, C., Thies, J., Nießner, M.: Face- forensics++: Learning to detect manipulated facial images. In: Proceedings of the IEEE/CVF International Conference on Computer Vision, pp. 1–11 (2019)
+5. **DFDC Preview:** Dolhansky, B., Howes, R., Pflaum, B., Baram, N., Ferrer, C.C.: The DeepfakeDetection Challenge (DFDC) Preview Dataset (2019). <https://arxiv.org/abs/1910.08854>
